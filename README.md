@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Lucas Almeida Petrolli!</strong>
 
-🔭 Sou um Desenvolvedor Fullstack com habilidades em React, Vue, Node, Nest, Python. Atualmente, estou trabalhando como desenvolvedora backend, onde estou continuamente aprimorando minhas habilidades de programação e desenvolvendo soluções de software para problemas do mundo real. Estou sempre procurando aprender coisas novas e ficar atualizada com as últimas tendências e tecnologias da minha área. Quando não estou trabalhando, gosto de me dedicar a projetos pessoais e contribuir com a comunidade de desenvolvimento de software.
+🔭 Sou um Desenvolvedor Fullstack com habilidades em React, Vue, Node, Nest, Python. Atualmente, estou trabalhando como desenvolvedor backend, onde estou continuamente aprimorando minhas habilidades de programação e desenvolvendo soluções de software para problemas do mundo real. Estou sempre procurando aprender coisas novas e ficar atualizada com as últimas tendências e tecnologias da minha área. Quando não estou trabalhando, gosto de me dedicar a projetos pessoais e contribuir com a comunidade de desenvolvimento de software.
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
