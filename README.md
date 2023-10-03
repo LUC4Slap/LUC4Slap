@@ -23,7 +23,8 @@
     </a>
   <br />
 </div>
----
+
+----
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LUC4Slap&show_icons=true)
